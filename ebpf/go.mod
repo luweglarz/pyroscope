@@ -1,4 +1,4 @@
-module github.com/grafana/pyroscope/ebpf
+module github.com/luweglarz/pyroscope/ebpf
 
 go 1.19
 
