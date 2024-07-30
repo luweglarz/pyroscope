@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/grafana/pyroscope/ebpf/symtab"
+	"github.com/luweglarz/pyroscope/ebpf/symtab"
 )
 
 type ProcInfo struct {

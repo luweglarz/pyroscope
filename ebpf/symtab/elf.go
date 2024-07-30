@@ -9,8 +9,8 @@ import (
 
 	"github.com/go-kit/log"
 	"github.com/go-kit/log/level"
-	"github.com/grafana/pyroscope/ebpf/metrics"
-	elf2 "github.com/grafana/pyroscope/ebpf/symtab/elf"
+	"github.com/luweglarz/pyroscope/ebpf/metrics"
+	elf2 "github.com/luweglarz/pyroscope/ebpf/symtab/elf"
 	"github.com/ianlancetaylor/demangle"
 )
 

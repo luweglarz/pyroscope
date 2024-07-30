@@ -8,7 +8,7 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/grafana/pyroscope/ebpf/dwarfdump"
+	"github.com/luweglarz/pyroscope/ebpf/dwarfdump"
 )
 
 func main() {

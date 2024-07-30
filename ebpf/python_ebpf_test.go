@@ -10,11 +10,11 @@ import (
 	"testing"
 
 	"github.com/go-kit/log"
-	"github.com/grafana/pyroscope/ebpf/metrics"
-	"github.com/grafana/pyroscope/ebpf/pprof"
-	"github.com/grafana/pyroscope/ebpf/sd"
-	"github.com/grafana/pyroscope/ebpf/symtab"
-	"github.com/grafana/pyroscope/ebpf/testutil"
+	"github.com/luweglarz/pyroscope/ebpf/metrics"
+	"github.com/luweglarz/pyroscope/ebpf/pprof"
+	"github.com/luweglarz/pyroscope/ebpf/sd"
+	"github.com/luweglarz/pyroscope/ebpf/symtab"
+	"github.com/luweglarz/pyroscope/ebpf/testutil"
 	"github.com/samber/lo"
 	"github.com/stretchr/testify/require"
 )

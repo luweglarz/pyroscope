@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/grafana/pyroscope/ebpf/util"
+	"github.com/luweglarz/pyroscope/ebpf/util"
 
 	"github.com/stretchr/testify/require"
 )

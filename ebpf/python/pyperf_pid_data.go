@@ -8,7 +8,7 @@ import (
 
 	"github.com/go-kit/log"
 	"github.com/go-kit/log/level"
-	"github.com/grafana/pyroscope/ebpf/symtab"
+	"github.com/luweglarz/pyroscope/ebpf/symtab"
 )
 
 func GetPyPerfPidData(l log.Logger, pid uint32) (*PerfPyPidData, error) {

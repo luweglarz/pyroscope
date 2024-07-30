@@ -11,8 +11,8 @@ import (
 	"github.com/cilium/ebpf/perf"
 	"github.com/go-kit/log"
 	"github.com/go-kit/log/level"
-	"github.com/grafana/pyroscope/ebpf/metrics"
-	"github.com/grafana/pyroscope/ebpf/symtab"
+	"github.com/luweglarz/pyroscope/ebpf/metrics"
+	"github.com/luweglarz/pyroscope/ebpf/symtab"
 )
 
 type Perf struct {

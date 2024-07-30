@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/grafana/pyroscope/ebpf/symtab/elf"
+	"github.com/luweglarz/pyroscope/ebpf/symtab/elf"
 
 	"github.com/go-kit/log"
 	"github.com/go-kit/log/level"

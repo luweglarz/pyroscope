@@ -11,10 +11,10 @@ import (
 	"github.com/cilium/ebpf"
 	"github.com/cilium/ebpf/btf"
 	"github.com/go-kit/log/level"
-	"github.com/grafana/pyroscope/ebpf/pprof"
-	"github.com/grafana/pyroscope/ebpf/pyrobpf"
-	"github.com/grafana/pyroscope/ebpf/python"
-	"github.com/grafana/pyroscope/ebpf/sd"
+	"github.com/luweglarz/pyroscope/ebpf/pprof"
+	"github.com/luweglarz/pyroscope/ebpf/pyrobpf"
+	"github.com/luweglarz/pyroscope/ebpf/python"
+	"github.com/luweglarz/pyroscope/ebpf/sd"
 	"github.com/samber/lo"
 )
 

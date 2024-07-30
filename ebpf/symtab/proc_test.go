@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/grafana/pyroscope/ebpf/metrics"
-	"github.com/grafana/pyroscope/ebpf/util"
+	"github.com/luweglarz/pyroscope/ebpf/metrics"
+	"github.com/luweglarz/pyroscope/ebpf/util"
 
 	"github.com/stretchr/testify/require"
 )

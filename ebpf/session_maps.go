@@ -11,7 +11,7 @@ import (
 
 	"github.com/cilium/ebpf"
 	"github.com/go-kit/log/level"
-	"github.com/grafana/pyroscope/ebpf/pyrobpf"
+	"github.com/luweglarz/pyroscope/ebpf/pyrobpf"
 )
 
 func (s *session) getCountsMapValues() (keys []pyrobpf.ProfileSampleKey, values []uint32, batch bool, err error) {

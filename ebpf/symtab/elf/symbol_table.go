@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/grafana/pyroscope/ebpf/symtab/gosym"
+	"github.com/luweglarz/pyroscope/ebpf/symtab/gosym"
 	"github.com/ianlancetaylor/demangle"
 )
 

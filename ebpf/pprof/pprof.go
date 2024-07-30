@@ -10,7 +10,7 @@ import (
 
 	"github.com/cespare/xxhash/v2"
 	"github.com/google/pprof/profile"
-	"github.com/grafana/pyroscope/ebpf/sd"
+	"github.com/luweglarz/pyroscope/ebpf/sd"
 	"github.com/klauspost/compress/gzip"
 	"github.com/prometheus/prometheus/model/labels"
 )

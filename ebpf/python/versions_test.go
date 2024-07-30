@@ -3,7 +3,7 @@ package python
 import (
 	"testing"
 
-	"github.com/grafana/pyroscope/ebpf/testutil"
+	"github.com/luweglarz/pyroscope/ebpf/testutil"
 	"github.com/stretchr/testify/assert"
 )
 

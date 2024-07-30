@@ -1,7 +1,7 @@
 package symtab
 
 import (
-	"github.com/grafana/pyroscope/ebpf/symtab/elf"
+	"github.com/luweglarz/pyroscope/ebpf/symtab/elf"
 )
 
 type ElfCache struct {

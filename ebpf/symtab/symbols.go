@@ -5,7 +5,7 @@ import (
 
 	"github.com/go-kit/log"
 	"github.com/go-kit/log/level"
-	"github.com/grafana/pyroscope/ebpf/metrics"
+	"github.com/luweglarz/pyroscope/ebpf/metrics"
 )
 
 type PidKey uint32
